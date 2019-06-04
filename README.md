@@ -1,2 +1,3 @@
-# C-Counting-the-angle-of-Clock-arrows.
-C# program. Counting the angle of Clock arrows.
+# C# Small program.Counting-the-angle-of-Clock-arrows.
+
+Counting the angle of Clock arrows. Input clock and minute values.
